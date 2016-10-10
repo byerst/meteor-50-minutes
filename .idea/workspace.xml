@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eb4d00b-95e8-492a-8c6e-6a58e05f319c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tasklist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tasklist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tasklist.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/client/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/client/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/client/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/server/main.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tasklist.html" afterPath="$PROJECT_DIR$/app/tasklist.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tasklist.js" afterPath="$PROJECT_DIR$/app/tasklist.js" />
     </list>
     <ignored path="meteor-50-minutes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,21 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tasklist.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tasklist.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/tasklist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="300">
+              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tasklist.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tasklist.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/tasklist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            <state relative-caret-position="360">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -82,8 +74,8 @@
       <list>
         <option value="$PROJECT_DIR$/app/client/main.html" />
         <option value="$PROJECT_DIR$/app/tasklist.css" />
-        <option value="$PROJECT_DIR$/app/tasklist.js" />
         <option value="$PROJECT_DIR$/app/tasklist.html" />
+        <option value="$PROJECT_DIR$/app/tasklist.js" />
       </list>
     </option>
   </component>
@@ -351,18 +343,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/tasklist.js">
+    <entry file="file://$PROJECT_DIR$/app/tasklist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        <state relative-caret-position="300">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/tasklist.html">
+    <entry file="file://$PROJECT_DIR$/app/tasklist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="360">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
           <folding />
         </state>
       </provider>
